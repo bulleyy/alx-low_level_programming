@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
- * main ->  prints exactly Programming is like building a multilingual puzzle
- * Return -> (0) success
+ * main - prints exactly Programming is like building a multilingual puzzle
+ * Return: (0) success
  */
 int main(void)
 {
